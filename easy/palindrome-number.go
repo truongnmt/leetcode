@@ -37,3 +37,17 @@ func isPalindromeRevertInt(x int) bool {
     return rev == x
 }
 
+func isPalindromeRevertIntHalf(x int) bool {
+	if x < 0 || (x % 10 == 0 && x != 0) {
+		return false 
+	}
+
+    rev := 0
+    for x > rev {
+        remainder := x % 10
+        x /= 10
+        rev = rev*10 + remainder
+    }
+    return rev == x || rev/10 == x
+}
+
