@@ -21,3 +21,19 @@ func isPalindrome(x int) bool {
     
     return true
 }
+
+func isPalindromeRevertInt(x int) bool {
+	if x < 0 {
+		return false 
+	}
+
+    rev := 0
+    y := x
+    for y != 0 {
+        remainder := y % 10
+        y = y / 10
+        rev = rev*10 + remainder
+    }
+    return rev == x
+}
+
