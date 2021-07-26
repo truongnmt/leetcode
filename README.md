@@ -8,3 +8,4 @@ LeetCode Solutions: A Record of My Problem Solving Journey.
 | 2 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Go](/easy/reverse-integer.go) | Easy |
 | 3 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Go](/easy/palindrome-number.go) | Easy |
 | 4 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Go](/easy/roman-to-integer.go) | Easy |
+| 5 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Go](/easy/longest-common-prefix.go) | Easy |
