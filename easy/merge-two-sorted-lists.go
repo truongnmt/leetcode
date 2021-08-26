@@ -61,3 +61,7 @@ func mergeTwoLists(l1 *ListNode, l2 *ListNode) *ListNode {
 
 	return listTemp
 }
+
+func mergeTwoLists2(l1 *ListNode, l2 *ListNode) *ListNode {
+
+}
