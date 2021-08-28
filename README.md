@@ -11,4 +11,5 @@ LeetCode Solutions: A Record of My Problem Solving Journey.
 | 5 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Go](/easy/longest-common-prefix.go) | Easy |
 | 6 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Go](/easy/valid-parentheses.go) | Easy |
 | 7 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Go](/easy/merge-two-sorted-lists.go) | Easy |
-| 8 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Go](/easy/contains-duplicate.go) | Easy | 
+| 8 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Go](/easy/contains-duplicate.go) | Easy |
+| 9 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Go](/easy/kth-largest-element-in-an-array.go) | Easy |
