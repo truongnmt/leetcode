@@ -12,4 +12,5 @@ LeetCode Solutions: A Record of My Problem Solving Journey.
 | 6 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Go](/easy/valid-parentheses.go) | Easy |
 | 7 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Go](/easy/merge-two-sorted-lists.go) | Easy |
 | 8 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Go](/easy/contains-duplicate.go) | Easy |
-| 9 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Go](/easy/kth-largest-element-in-an-array.go) | Easy |
+| 9 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Go](/easy/kth-largest-element-in-an-array.go) | Medium |
+| 10 | [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | [Go](/easy/rank-transform-of-an-array.go) | Easy |
