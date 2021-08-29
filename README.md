@@ -17,4 +17,4 @@ LeetCode Solutions: A Record of My Problem Solving Journey.
 | 11 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Go](/easy/majority-element.go) | Easy | sort |
 | 12 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Go](/medium/top-k-frequent-elements.go) |  Medium | sort|
 | 13 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Go](/easy/remove-duplicates-from-sorted-list.go) | Easy | linked list |
-
+| 14 | [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) | [Go](/easy/largest-perimeter-triangle.go) | Easy | sort |
