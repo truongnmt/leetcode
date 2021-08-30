@@ -20,3 +20,4 @@ LeetCode Solutions: A Record of My Problem Solving Journey.
 | 14 | [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) | [Go](/easy/largest-perimeter-triangle.go) | Easy | sort |
 | 15 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [Go](/easy/third-maximum-number.go) | Easy | sort |
 | 16 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/submissions/) | [Go](/easy/reverse-linked-list.go) | Easy | linked list |
+| 17 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Go](/hard/merge-k-sorted-lists.go) | Hard | linked list |
