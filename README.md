@@ -3,7 +3,7 @@
 LeetCode Solutions: A Record of My Problem Solving Journey.
 
 | # | Title | Solution | Difficulty | Tag |
-| - | - | - | - |
+| - | - | - | - | - |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Go](/easy/two_sum.go) | Easy | |
 | 2 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Go](/easy/reverse-integer.go) | Easy | |
 | 3 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Go](/easy/palindrome-number.go) | Easy | |
@@ -22,3 +22,4 @@ LeetCode Solutions: A Record of My Problem Solving Journey.
 | 16 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/submissions/) | [Go](/easy/reverse-linked-list.go) | Easy | linked list |
 | 17 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Go](/hard/merge-k-sorted-lists.go) | Hard | linked list |
 | 18 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Go](/medium/linked-list-cycle-ii.go) | Medium | linked list |
+| 19 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Go](/easy/linked-list-cycle.go) | Easy | linked list |
