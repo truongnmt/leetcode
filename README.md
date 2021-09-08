@@ -24,3 +24,4 @@ LeetCode Solutions: A Record of My Problem Solving Journey.
 | 18 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Go](/medium/linked-list-cycle-ii.go) | Medium | linked list |
 | 19 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Go](/easy/linked-list-cycle.go) | Easy | linked list |
 | 20 | [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/) | [Go](/easy/sum-of-all-subset-xor-totals.go) | Easy | backtrack |
+| 20 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Go](/easy/min-stack.go) | Easy | stack |
