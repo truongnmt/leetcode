@@ -25,3 +25,4 @@ LeetCode Solutions: A Record of My Problem Solving Journey.
 | 19 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Go](/easy/linked-list-cycle.go) | Easy | linked list |
 | 20 | [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/) | [Go](/easy/sum-of-all-subset-xor-totals.go) | Easy | backtrack |
 | 20 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Go](/easy/min-stack.go) | Easy | stack |
+| 21 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Go](/hard/largest-rectangle-in-histogram.go) | Hard | stack |
