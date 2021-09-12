@@ -28,3 +28,4 @@ LeetCode Solutions: A Record of My Problem Solving Journey.
 | 21 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Go](/hard/largest-rectangle-in-histogram.go) | Hard | stack |
 | 22 | [Number of Pairs of Interchangeable Rectangles](https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/) | [Go](/easy/number-of-pairs-of-interchangeable-rectangles.go) | Easy |  |
 | 23 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/) | [Go](/easy/reverse-prefix-of-word.go) | Easy |  |
+| 24 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Go](/easy/maximum-depth-of-binary-tree.go) | Easy | Tree |
