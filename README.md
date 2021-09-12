@@ -26,4 +26,5 @@ LeetCode Solutions: A Record of My Problem Solving Journey.
 | 20 | [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/) | [Go](/easy/sum-of-all-subset-xor-totals.go) | Easy | backtrack |
 | 20 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Go](/easy/min-stack.go) | Easy | stack |
 | 21 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Go](/hard/largest-rectangle-in-histogram.go) | Hard | stack |
-| 22 | [Number of Pairs of Interchangeable Rectangles](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Go](/easy/number-of-pairs-of-interchangeable-rectangles.go) | Easy |  |
+| 22 | [Number of Pairs of Interchangeable Rectangles](https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/) | [Go](/easy/number-of-pairs-of-interchangeable-rectangles.go) | Easy |  |
+| 23 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/) | [Go](/easy/reverse-prefix-of-word.go) | Easy |  |
