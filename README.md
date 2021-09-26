@@ -29,3 +29,4 @@ LeetCode Solutions: A Record of My Problem Solving Journey.
 | 22 | [Number of Pairs of Interchangeable Rectangles](https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/) | [Go](/easy/number-of-pairs-of-interchangeable-rectangles.go) | Easy |  |
 | 23 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/) | [Go](/easy/reverse-prefix-of-word.go) | Easy |  |
 | 24 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Go](/easy/maximum-depth-of-binary-tree.go) | Easy | Tree |
+| 25 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Go](/easy/binary-tree-inorder-traversal.go) | Easy | Tree |
