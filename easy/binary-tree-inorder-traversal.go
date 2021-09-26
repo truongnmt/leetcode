@@ -52,4 +52,3 @@ func inorderTraversal(root *TreeNode) []int {
     
     return nodes
 }
-

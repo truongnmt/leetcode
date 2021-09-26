@@ -30,4 +30,5 @@ LeetCode Solutions: A Record of My Problem Solving Journey.
 | 23 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/) | [Go](/easy/reverse-prefix-of-word.go) | Easy |  |
 | 24 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Go](/easy/maximum-depth-of-binary-tree.go) | Easy | Tree |
 | 25 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Go](/easy/binary-tree-inorder-traversal.go) | Easy | Tree |
-| 26 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Go](/medium/lru-cache.go) | LRU Cache |  |
+| 26 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Go](/medium/lru-cache.go) | Medium |  |
+| 27 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Go](/medium/binary-tree-postorder-traversal.go) | Easy | Tree |
