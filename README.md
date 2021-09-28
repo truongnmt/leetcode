@@ -31,5 +31,6 @@ LeetCode Solutions: A Record of My Problem Solving Journey.
 | 24 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Go](/easy/maximum-depth-of-binary-tree.go) | Easy | Tree |
 | 25 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Go](/easy/binary-tree-inorder-traversal.go) | Easy | Tree |
 | 26 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Go](/medium/lru-cache.go) | Medium |  |
-| 27 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Go](/medium/binary-tree-postorder-traversal.go) | Easy | Tree |
-| 28 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Go](/medium/binary-tree-preorder-traversal.go) | Easy | Tree |
+| 27 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Go](/easy/binary-tree-postorder-traversal.go) | Easy | Tree |
+| 28 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Go](/easy/binary-tree-preorder-traversal.go) | Easy | Tree |
+| 29 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Go](/medium/binary-tree-level-order-traversal.go) | Medium | Tree |
