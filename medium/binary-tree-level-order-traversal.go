@@ -38,7 +38,7 @@ func dfs(u *TreeNode, h int, m map[int][]int) {
     dfs(u.Right, h+1, m)
 }
 
-// bfs
+// bfs in queue
 
 func levelOrder(root *TreeNode) [][]int {
     if root == nil {
@@ -60,5 +60,36 @@ func levelOrder(root *TreeNode) [][]int {
             queue = queue[1:]
         }
     }
+    return res
+}
+
+// bfs in stack
+
+func levelOrder(root *TreeNode) [][]int {
+    if root == nil {
+        return [][]int{}
+    }
+    
+    var res [][]int
+    st := []*TreeNode{root}
+    for len(st)>0 {
+        levelItem := []int{}
+        for _, node := range(st) {
+            levelItem = append(levelItem, node.Val)
+        }
+        res = append(res, levelItem)
+        
+        tmp := []*TreeNode{}
+        for _, node := range(st) {
+            if node.Left != nil {
+                tmp = append(tmp, node.Left)
+            }
+            if node.Right != nil {
+                tmp = append(tmp, node.Right)
+            }
+        }
+        st = tmp
+    }
+    
     return res
 }

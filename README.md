@@ -33,4 +33,4 @@ LeetCode Solutions: A Record of My Problem Solving Journey.
 | 26 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Go](/medium/lru-cache.go) | Medium |  |
 | 27 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Go](/easy/binary-tree-postorder-traversal.go) | Easy | Tree, recursive, iterative |
 | 28 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Go](/easy/binary-tree-preorder-traversal.go) | Easy | Tree, recursive, iterative |
-| 29 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Go](/medium/binary-tree-level-order-traversal.go) | Medium | Tree, bfs, dfs |
+| 29 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Go](/medium/binary-tree-level-order-traversal.go) | Medium | Tree, bfs (in queue, in stack), dfs |
