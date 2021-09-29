@@ -37,3 +37,28 @@ func dfs(u *TreeNode, h int, m map[int][]int) {
     dfs(u.Left, h+1, m)
     dfs(u.Right, h+1, m)
 }
+
+// bfs
+
+func levelOrder(root *TreeNode) [][]int {
+    if root == nil {
+        return [][]int{}
+    }
+    
+    var res [][]int
+    queue := []*TreeNode{root}
+    for level:=0;len(queue)>0;level++{
+        res = append(res, []int{})
+        for levelSize:=len(queue);levelSize>0;levelSize--{
+            if queue[0].Left != nil {
+                queue = append(queue, queue[0].Left)
+            }
+            if queue[0].Right != nil {
+                queue = append(queue, queue[0].Right)
+            }
+            res[level] = append(res[level], queue[0].Val)
+            queue = queue[1:]
+        }
+    }
+    return res
+}
