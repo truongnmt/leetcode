@@ -34,5 +34,6 @@ LeetCode Solutions: A Record of My Problem Solving Journey.
 | 27 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Go](/easy/binary-tree-postorder-traversal.go) | Easy | Tree, recursive, iterative |
 | 28 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Go](/easy/binary-tree-preorder-traversal.go) | Easy | Tree, recursive, iterative |
 | 29 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Go](/medium/binary-tree-level-order-traversal.go) | Medium | Tree, bfs (in queue, in stack), dfs |
-| 30 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)) | [Go](/medium/binary-tree-zigzag-level-order-traversal.go) | Medium | Tree, bfs (in stack) |
-| 31 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)) | [Go](/easy/number-of-recent-calls.go) | Easy | stack |
+| 30 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Go](/medium/binary-tree-zigzag-level-order-traversal.go) | Medium | Tree, bfs (in stack) |
+| 31 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | [Go](/easy/number-of-recent-calls.go) | Easy | stack |
+| 32 | [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) | [Go](/medium/n-ary-tree-level-order-traversal.go) | Medium | Tree |
