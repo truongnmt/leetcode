@@ -39,3 +39,4 @@ LeetCode Solutions: A Record of My Problem Solving Journey.
 | 32 | [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) | [Go](/medium/n-ary-tree-level-order-traversal.go) | Medium | Tree |
 | 33 | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | [Go](/medium/maximum-level-sum-of-a-binary-tree.go) | Medium | Tree, stack |
 | 34 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | [Go](/medium/design-circular-queue.go) | Medium | queue |
+| 35 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | [Go](/medium/number-of-islands.go) | Medium | bfs |
