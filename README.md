@@ -38,3 +38,4 @@ LeetCode Solutions: A Record of My Problem Solving Journey.
 | 31 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | [Go](/easy/number-of-recent-calls.go) | Easy | stack |
 | 32 | [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) | [Go](/medium/n-ary-tree-level-order-traversal.go) | Medium | Tree |
 | 33 | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | [Go](/medium/maximum-level-sum-of-a-binary-tree.go) | Medium | Tree, stack |
+| 34 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Go](/medium/lowest-common-ancestor-of-a-binary-tree.go) | Medium | Tree, dfs |
