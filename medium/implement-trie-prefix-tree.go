@@ -34,30 +34,27 @@ func (this *Trie) Insert(word string)  {
     cur.end = true
 }
 
-
-func (this *Trie) Search(word string) bool {
+func (this *Trie) getRepresentNode(word string) *TrieNode {
     cur := this.root
     for _, symbol := range word {
         if _, ok := cur.children[symbol]; ok {
             cur = cur.children[symbol]
         } else {
-            return false
+            return nil
         }
     }
-    return cur.end
+    return cur
+}
+
+func (this *Trie) Search(word string) bool {
+    node := this.getRepresentNode(word)
+    return node != nil && node.end
 }
 
 
 func (this *Trie) StartsWith(prefix string) bool {
-    cur := this.root
-    for _, symbol := range prefix {
-        if _, ok := cur.children[symbol]; ok {
-            cur = cur.children[symbol]
-        } else {
-            return false
-        }
-    }
-    return true
+    node := this.getRepresentNode(prefix)
+    return node != nil
 }
 
 
