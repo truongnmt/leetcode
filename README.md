@@ -45,3 +45,4 @@ LeetCode Solutions: A Record of My Problem Solving Journey.
 | 38 | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | [Go](/medium/binary-tree-maximum-path-sum.go) | Medium | dfs |
 | 39 | [Minimum Number of Days to Disconnect Island](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/) | [Go](/hard/minimum-number-of-days-to-disconnect-island.go) | Hard | dfs |
 | 40 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin) | [Go](/medium/k-closest-points-to-origin.go) | Medium | heap |
+| 41 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Go](/medium/implement-trie-prefix-tree.go) | Medium | string |
