@@ -47,3 +47,4 @@ LeetCode Solutions: A Record of My Problem Solving Journey.
 | 40 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin) | [Go](/medium/k-closest-points-to-origin.go) | Medium | heap |
 | 41 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Go](/medium/implement-trie-prefix-tree.go) | Medium | string |
 | 42 | [3Sum](https://leetcode.com/problems/3sum) | [Go](/medium/3sum.go) | Medium | two pointer |
+| 43 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | [Go](/medium/capacity-to-ship-packages-within-d-days.go) | Medium | binary search |
