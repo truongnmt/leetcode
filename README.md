@@ -49,3 +49,4 @@ LeetCode Solutions: A Record of My Problem Solving Journey.
 | 42 | [3Sum](https://leetcode.com/problems/3sum) | [Go](/medium/3sum.go) | Medium | two pointer |
 | 43 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Go](/medium/longest-palindromic-substring.go) | Medium | two pointer |
 | 44 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | [Go](/medium/capacity-to-ship-packages-within-d-days.go) | Medium | binary search |
+| 45 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Go](/medium/longest-increasing-subsequence.go) | Medium | dynamic programming |
