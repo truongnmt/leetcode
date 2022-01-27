@@ -50,3 +50,5 @@ LeetCode Solutions: A Record of My Problem Solving Journey.
 | 43 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Go](/medium/longest-palindromic-substring.go) | Medium | two pointer |
 | 44 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | [Go](/medium/capacity-to-ship-packages-within-d-days.go) | Medium | binary search |
 | 45 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Go](/medium/longest-increasing-subsequence.go) | Medium | dynamic programming |
+| 46 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Go](/easy/remove-duplicates-from-sorted-array.go) | Easy | array |
+| 47 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Go](/medium/set-matrix-zeroes.go) | Medium | array |
