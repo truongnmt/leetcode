@@ -53,3 +53,4 @@ LeetCode Solutions: A Record of My Problem Solving Journey.
 | 46 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Go](/easy/remove-duplicates-from-sorted-array.go) | Easy | array |
 | 47 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Go](/medium/set-matrix-zeroes.go) | Medium | array |
 | 48 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Go](/medium/group-anagrams.go) | Medium | array |
+| 49 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Go](/medium/longest-substring-without-repeating-characters.go) | Medium | array |
