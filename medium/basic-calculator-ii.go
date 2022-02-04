@@ -162,3 +162,60 @@ func calculate(s string) int {
     
     return stackResult[0]
 }
+// ------------------------------------------------------------------------------------
+// Stack
+// 5+3*2*4-6/2-1+1
+// i
+
+// stack: 5 24 -3 -1 +1
+// curNumber: 
+// operator:
+
+// for ch in s 
+// if ch is number, add to curNumber
+// else if ch is operator
+//  if operator is '+' push curNumber to stack
+//  if operator is '-' push -curNumber to stack
+//  if operator is '*' pop stack , calculate and push result to stack
+//  operator = ch
+//  curNumber = 0
+
+func calculate(s string) int {
+    stack := []int{}
+    curNumber := 0
+    operator := '+'
+    
+    for i, ch := range s {
+        if isNumber(ch) {
+            curNumber = curNumber*10 + int(ch-'0')
+            // fmt.Println(curNumber)
+        }
+        if !isNumber(ch) && ch != ' ' || i == len(s)-1 {
+            if operator == '+' { stack = append(stack, curNumber) }
+            if operator == '-' { stack = append(stack, -curNumber) }
+            if operator == '*' {
+                left := stack[len(stack)-1]
+                stack = stack[:len(stack)-1]
+                stack = append(stack, left * curNumber) 
+            }
+            if operator == '/' {
+                left := stack[len(stack)-1]
+                stack = stack[:len(stack)-1]
+                stack = append(stack, left / curNumber) 
+            }
+            operator = ch
+            curNumber = 0
+        } 
+    }
+    
+    // fmt.Println(stack)
+    
+    result := 0
+    for _, num := range stack {
+        result += num
+    }
+    
+    return result
+}
+
+func isNumber(ch rune) bool { return '0' <= ch && ch <= '9' }
