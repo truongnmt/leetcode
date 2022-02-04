@@ -219,3 +219,56 @@ func calculate(s string) int {
 }
 
 func isNumber(ch rune) bool { return '0' <= ch && ch <= '9' }
+
+// ------------------------------------------------------------------------------------
+// Stack TC O(n) SC O(1)
+// 5+3*2/3-1
+//         i
+
+// result    : 5 -> 5+2=7
+// lastNumber: 2 -> 2-1=1
+// curNumber : 1
+// operator  : -
+
+// for ch in s 
+// if ch is number, add to curNumber
+// else if ch is operator
+//  if operator is '+' || '-' result += lastNumber; lastnumber = operator curnumber
+//  if operator is '*', lastnumber = lastnumber * curnumber
+//  if operator is '/', lastnumber = lastnumber / curnumber
+//  operator = ch
+//  curNumber = 0
+
+func calculate(s string) int {
+    result := 0
+    lastNumber := 0
+    curNumber := 0
+    operator := '+'
+    
+    for i, ch := range s {
+        if isNumber(ch) {
+            curNumber = curNumber*10 + int(ch-'0')
+        }
+        if !isNumber(ch) && ch != ' ' || i == len(s)-1 {
+            if operator == '+' || operator == '-' { 
+                result += lastNumber
+                if operator == '+' { lastNumber = curNumber }
+                if operator == '-' { lastNumber = -curNumber }
+            }
+            if operator == '*' {
+                lastNumber = lastNumber * curNumber
+            }
+            if operator == '/' {
+                lastNumber = lastNumber / curNumber
+            }
+            operator = ch
+            curNumber = 0
+        } 
+    }
+    
+    result += lastNumber
+    return result
+}
+
+func isNumber(ch rune) bool { return '0' <= ch && ch <= '9' }
+
