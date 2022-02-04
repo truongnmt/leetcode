@@ -69,3 +69,96 @@ func calculate(s string) int {
 
 	return result
 }
+
+// ------------------------------------------------------------------------------------
+// 5+3*2*4-6/2-1+1
+// 532*4*+62/-1-1+
+// 
+// Reverse polish notation
+// arrS []string
+// loop in s, if number append to arrS, if operator put to stack
+//   if priority operator > head, append operator to stack
+//   else if <= priority, pop stack and append to arrS while operator bigger than head, then put operator to stack
+// pop stack and append to arrS
+
+// 3+2*4/5+3-1
+// 324*5/+3+1-
+// -
+// 5 3 2*+6 2/-1-1+
+// loop s in arrS
+//   if s is number, convert to number, put to stack
+//   if s is operator, pop 2 time in stack, calculate it and push result back to stack
+
+// pop stack to get result
+
+func isBiggerOperator(op1, op2 string) bool {
+    op1Num := 0
+    op2Num := 0
+    if op1 == "*" || op1 == "/" { op1Num = 1}
+    if op2 == "*" || op2 == "/" { op2Num = 1}
+    if op1 == "+" || op1 == "-" { op1Num = -1}
+    if op2 == "+" || op2 == "-" { op2Num = -1}
+    
+    return op1Num > op2Num
+}
+
+func calculate(s string) int {
+    var arrS []string
+    var stack []string
+    number := ""
+    for _, char := range s {
+        if char == ' ' { continue }
+        if 0 <= char - '0' && char - '0' <= '9' {
+            number += string(char)
+        } else {
+            arrS = append(arrS, number)
+            number = ""
+            
+            if len(stack) > 0 && isBiggerOperator(string(char), stack[len(stack)-1]) {
+                stack = append(stack, string(char))
+            } else {
+                for len(stack) > 0 && !isBiggerOperator(string(char), stack[len(stack)-1]) {
+                    // pop and push to arrS
+                    arrS = append(arrS, stack[len(stack)-1])
+                    stack = stack[:(len(stack)-1)]
+                }
+                // put operator to stack
+                stack = append(stack, string(char))
+            }
+            // fmt.Printf("arrS= %v stack=%v\n", arrS, stack)
+        }
+    }
+    if number != "" { arrS = append(arrS, number) }
+    for len(stack) > 0 {
+        // pop and push to arrS
+        arrS = append(arrS, stack[len(stack)-1])
+        stack = stack[:(len(stack)-1)]
+    }
+    
+    // fmt.Printf("arrS=%v\n", arrS)
+    
+    // 532*4*+62/-1-1+
+    // loop s in arrS
+    //   if s is number, convert to number, put to stack
+    //   if s is operator, pop 2 time in stack, calculate it and push result back to stack
+    
+    stackResult := []int{}
+    for _, s := range arrS {
+        if s != "+" && s != "-" && s != "*" && s != "/" {
+            tmp, _ := strconv.Atoi(s)
+            stackResult = append(stackResult, tmp)
+        } else {
+            var result int
+            right := stackResult[len(stackResult)-1]
+            left := stackResult[len(stackResult)-2]
+            stackResult = stackResult[:(len(stackResult)-2)]
+            if s == "+" { result += left + right }
+            if s == "-" { result += left - right }
+            if s == "*" { result += left * right }
+            if s == "/" { result += left / right }
+            stackResult = append(stackResult, result)
+        }
+    }
+    
+    return stackResult[0]
+}
