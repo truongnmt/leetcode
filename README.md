@@ -57,3 +57,4 @@ LeetCode Solutions: A Record of My Problem Solving Journey.
 | 50 | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [Go](/medium/minimum-moves-to-equal-array-elements.go) | Medium | math array |
 | 51 | [Find the Closest Palindrome](https://leetcode.com/problems/find-the-closest-palindrome/) | [Go](/hard/find-the-closest-palindrome.go) | Hard | |
 | 52 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [Go](/medium/basic-calculator-ii.go) | Medium | stack |
+| 53 | [Word Search](https://leetcode.com/problems/word-search/) | [Go](/medium/word-search.go) | Medium | dfs |
