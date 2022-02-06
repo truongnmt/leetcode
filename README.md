@@ -60,3 +60,4 @@ LeetCode Solutions: A Record of My Problem Solving Journey.
 | 53 | [Word Search](https://leetcode.com/problems/word-search/) | [Go](/medium/word-search.go) | Medium | dfs |
 | 54 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Go](/medium/add-two-numbers.go) | Medium | linked list |
 | 55 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [Go](/medium/add-two-numbers-ii.go) | Medium | linked list, stack |
+| 56 | [Smallest Value of the Rearranged Number](https://leetcode.com/problems/smallest-value-of-the-rearranged-number/) | [Go](/medium/smallest-value-of-the-rearranged-number.go) | Medium | |
