@@ -1,4 +1,5 @@
 // Given a sorted array A[] with possibly duplicate elements, write a program to find indexes of first and last occurrences of an element k in the given array.
+// https://afteracademy.com/blog/search-for-a-range-in-sorted-array
 
 // Problem Note
 
