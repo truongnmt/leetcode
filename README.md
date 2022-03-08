@@ -62,3 +62,4 @@ LeetCode Solutions: A Record of My Problem Solving Journey.
 | 55 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [Go](/medium/add-two-numbers-ii.go) | Medium | linked list, stack |
 | 56 | [Smallest Value of the Rearranged Number](https://leetcode.com/problems/smallest-value-of-the-rearranged-number/) | [Go](/medium/smallest-value-of-the-rearranged-number.go) | Medium | |
 | 57 | [Word Ladder](https://leetcode.com/problems/word-ladder/) | [Go](/hard/word-ladder.go) | Hard | |
+| 58 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [Go](/hard/find-median-from-data-stream.go) | Hard | heap |
