@@ -65,3 +65,4 @@ LeetCode Solutions: A Record of My Problem Solving Journey.
 | 58 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [Go](/hard/find-median-from-data-stream.go) | Hard | heap |
 | 59 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Go](/medium/permutation-in-string.go) | Medium | |
 | 60 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Go](/medium/generate-parentheses.go) | Medium | |
+| 61 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Go](/easy/binary-search.go) | Easy | |
