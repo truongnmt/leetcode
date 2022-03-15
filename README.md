@@ -66,3 +66,4 @@ LeetCode Solutions: A Record of My Problem Solving Journey.
 | 59 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Go](/medium/permutation-in-string.go) | Medium | |
 | 60 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Go](/medium/generate-parentheses.go) | Medium | |
 | 61 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Go](/easy/binary-search.go) | Easy | |
+| 62 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Go](/medium/find-first-and-last-position-of-element-in-sorted-array.go) | Medium | binary search |
