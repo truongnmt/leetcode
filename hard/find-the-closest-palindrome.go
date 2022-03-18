@@ -28,7 +28,6 @@
 // get min of all palin
 
 func nearestPalindromic(n string) string {
-
 	// parse left part
 	len := len(n)
 	leftPart := 0
@@ -39,29 +38,29 @@ func nearestPalindromic(n string) string {
 	}
 	nInt, _ := strconv.Atoi(n)
 
-	// fmt.Printf("leftPart=%v nInt=%v\n", leftPart, nInt)
-
 	// generate 5 palin
 	palins := []int{}
 	palins = append(palins, generatePalin(leftPart, len%2 == 0))   // 12321
 	palins = append(palins, generatePalin(leftPart+1, len%2 == 0)) // 12421
 	palins = append(palins, generatePalin(leftPart-1, len%2 == 0)) // 12221
 	palins = append(palins, int(math.Pow(10, float64(len-1))-1))   // 9999
-	palins = append(palins, int(math.Pow(10, float64(len))+1))     //   10001
+	palins = append(palins, int(math.Pow(10, float64(len))+1))     // 10001
 
 	// compare diff with n
-	minDiff := -1
+	minDiff := 0
 	var ans int
 	for _, palin := range palins {
 		if palin == nInt {
 			continue
 		}
-		diff := int(math.Abs(float64(palin - nInt)))
-		if minDiff == -1 || diff < minDiff {
+		diff := abs(palin - nInt)
+		if minDiff == 0 || diff < minDiff {
 			minDiff = diff
 			ans = palin
 		} else if diff == minDiff {
-			ans = int(math.Min(float64(ans), float64(palin)))
+			if palin < ans {
+				ans = palin
+			}
 		}
 	}
 
@@ -78,4 +77,12 @@ func generatePalin(leftPart int, even bool) int {
 		leftPart /= 10
 	}
 	return palin
+}
+
+func abs(x int) int {
+    if x < 0 {
+        return -x
+    }
+    
+    return x
 }
