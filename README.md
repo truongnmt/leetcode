@@ -67,3 +67,4 @@ LeetCode Solutions: A Record of My Problem Solving Journey.
 | 60 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Go](/medium/generate-parentheses.go) | Medium | |
 | 61 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Go](/easy/binary-search.go) | Easy | |
 | 62 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Go](/medium/find-first-and-last-position-of-element-in-sorted-array.go) | Medium | binary search |
+| 63 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) | [Go](/easy/binary-tree-paths.go) | Easy | dfs recursive |
