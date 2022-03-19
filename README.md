@@ -69,3 +69,4 @@ LeetCode Solutions: A Record of My Problem Solving Journey.
 | 62 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Go](/medium/find-first-and-last-position-of-element-in-sorted-array.go) | Medium | binary search |
 | 63 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) | [Go](/easy/binary-tree-paths.go) | Easy | dfs recursive |
 | 64 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [Go](/hard/reverse-nodes-in-k-group.go) | Hard | linked list |
+| 65 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Go](/medium/longest-consecutive-sequence.go) | Medium | |
