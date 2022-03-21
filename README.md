@@ -72,3 +72,4 @@ LeetCode Solutions: A Record of My Problem Solving Journey.
 | 65 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Go](/medium/longest-consecutive-sequence.go) | Medium | |
 | 66 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Go](/medium/jump-game.go) | Medium | greedy |
 | 67 | [Jump Game II](https://leetcode.com/problems/jump-game-ii) | [Go](/medium/jump-game-ii.go) | Medium | greedy |
+| 68 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Go](/hard/serialize-and-deserialize-binary-tree.go) | Hard | binary tree |
