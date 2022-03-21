@@ -70,3 +70,5 @@ LeetCode Solutions: A Record of My Problem Solving Journey.
 | 63 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) | [Go](/easy/binary-tree-paths.go) | Easy | dfs recursive |
 | 64 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [Go](/hard/reverse-nodes-in-k-group.go) | Hard | linked list |
 | 65 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Go](/medium/longest-consecutive-sequence.go) | Medium | |
+| 66 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Go](/medium/jump-game.go) | Medium | greedy |
+| 67 | [Jump Game II](https://leetcode.com/problems/jump-game-ii) | [Go](/medium/jump-game-ii.go) | Medium | greedy |
