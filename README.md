@@ -73,3 +73,5 @@ LeetCode Solutions: A Record of My Problem Solving Journey.
 | 66 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Go](/medium/jump-game.go) | Medium | greedy |
 | 67 | [Jump Game II](https://leetcode.com/problems/jump-game-ii) | [Go](/medium/jump-game-ii.go) | Medium | greedy |
 | 68 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Go](/hard/serialize-and-deserialize-binary-tree.go) | Hard | binary tree |
+| 68 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Go](/hard/serialize-and-deserialize-binary-tree.go) | Hard | binary tree |
+| 69 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Kotlin](/easy/best-time-to-buy-and-sell-stock.kt) | Easy | array |
