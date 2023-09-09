@@ -79,5 +79,4 @@ LeetCode Solutions: A Record of My Problem Solving Journey.
 | 71 | [Pascal Triagle](https://leetcode.com/problems/pascal-triagle/) | [Kotlin](/easy/pascal-triagle.kt) | Easy | array |
 | 72 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Kotlin](/easy/find-pivot-index.kt) | Easy | array |
 | 73 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Kotlin](/easy/find-all-numbers-disappeared-in-an-array.kt) | Easy | array |
-
-range-sum-query-immutable
+| 74 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [Kotlin](/easy/range-sum-query-immutable.kt) | Easy | array |
