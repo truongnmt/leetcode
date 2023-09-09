@@ -76,3 +76,8 @@ LeetCode Solutions: A Record of My Problem Solving Journey.
 | 68 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Go](/hard/serialize-and-deserialize-binary-tree.go) | Hard | binary tree |
 | 69 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Kotlin](/easy/best-time-to-buy-and-sell-stock.kt) | Easy | array |
 | 70 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Kotlin](/easy/remove-element.kt) | Easy | array |
+| 71 | [Pascal Triagle](https://leetcode.com/problems/pascal-triagle/) | [Kotlin](/easy/pascal-triagle.kt) | Easy | array |
+| 72 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Kotlin](/easy/find-pivot-index.kt) | Easy | array |
+| 73 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Kotlin](/easy/find-all-numbers-disappeared-in-an-array.kt) | Easy | array |
+
+range-sum-query-immutable
