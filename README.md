@@ -82,3 +82,4 @@ LeetCode Solutions: A Record of My Problem Solving Journey.
 | 75 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [Kotlin](/easy/range-sum-query-immutable.kt) | Easy | array |
 | 76 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Kotlin](/easy/product-of-array-except-self.kt) | Easy | array |
 | 77 | [Is Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Python](/medium/valid-sudoku.kt) | Medium | array |
+| 78 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Python](/medium/string-to-integer-atoi.kt) | Medium | array |
