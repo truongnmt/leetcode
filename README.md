@@ -52,7 +52,7 @@ LeetCode Solutions: A Record of My Problem Solving Journey.
 | 45 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Go](/medium/longest-increasing-subsequence.go) | Medium | dynamic programming |
 | 46 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Go](/easy/remove-duplicates-from-sorted-array.go) | Easy | array |
 | 47 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Go](/medium/set-matrix-zeroes.go) | Medium | array |
-| 48 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Go](/medium/group-anagrams.go) | Medium | array |
+| 48 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Go](/medium/group-anagrams.go) [Python](/medium/group-anagrams.py) | Medium | array |
 | 49 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Go](/medium/longest-substring-without-repeating-characters.go) | Medium | array |
 | 50 | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [Go](/medium/minimum-moves-to-equal-array-elements.go) | Medium | math array |
 | 51 | [Find the Closest Palindrome](https://leetcode.com/problems/find-the-closest-palindrome/) | [Go](/hard/find-the-closest-palindrome.go) | Hard | |
