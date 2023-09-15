@@ -15,7 +15,7 @@ LeetCode Solutions: A Record of My Problem Solving Journey.
 | 9 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Go](/medium/kth-largest-element-in-an-array.go) | Medium | sort |
 | 10 | [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | [Go](/easy/rank-transform-of-an-array.go) | Easy | sort |
 | 11 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Go](/easy/majority-element.go) | Easy | sort |
-| 12 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Go](/medium/top-k-frequent-elements.go) |  Medium | sort|
+| 12 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Go](/medium/top-k-frequent-elements.go) [Python](/medium/top-k-frequent-elements.py) |  Medium | sort, array |
 | 13 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Go](/easy/remove-duplicates-from-sorted-list.go) | Easy | linked list |
 | 14 | [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) | [Go](/easy/largest-perimeter-triangle.go) | Easy | sort |
 | 15 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [Go](/easy/third-maximum-number.go) | Easy | sort |
