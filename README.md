@@ -84,3 +84,4 @@ LeetCode Solutions: A Record of My Problem Solving Journey.
 | 77 | [Is Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Python](/medium/valid-sudoku.py) | Medium | array |
 | 78 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Python](/medium/string-to-integer-atoi.kpy) | Medium | array |
 | 79 | [Happy Number](https://leetcode.com/problems/happy-number/py)| [Python](/medium/happy-number.py) | Easy | Math, Recursion |
+| 80 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/py)| [Python](/medium/relative-sort-array.py) | Easy | sort |
