@@ -87,3 +87,4 @@ LeetCode Solutions: A Record of My Problem Solving Journey.
 | 80 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)| [Python](/easy/relative-sort-array.py) | Easy | sort |
 | 81 | [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/py)| [Python](/easy/minimum-cost-of-buying-candies-with-discount.py) | Easy | sort |
 | 82 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)| [Python](/easy/merge-sorted-array.py) | Easy | sort |
+| 83 | [Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts)| [Python](/easy/make-array-zero-by-subtracting-equal-amounts.py) | Easy | sort |
