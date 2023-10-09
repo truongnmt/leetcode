@@ -89,3 +89,4 @@ LeetCode Solutions: A Record of My Problem Solving Journey.
 | 82 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)| [Python](/easy/merge-sorted-array.py) | Easy | sort |
 | 83 | [Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts)| [Python](/easy/make-array-zero-by-subtracting-equal-amounts.py) | Easy | sort |
 | 84 | [Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points)| [Python](/easy/widest-vertical-area-between-two-points-containing-no-points.py) | Easy | sort |
+| 85 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)| [Python](/medium/search-in-rotated-sorted-array.py) | Medium | Binary Search |
