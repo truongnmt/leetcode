@@ -92,3 +92,4 @@ LeetCode Solutions: A Record of My Problem Solving Journey.
 | 85 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)| [Python](/medium/search-in-rotated-sorted-array.py) | Medium | Binary Search |
 | 86 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)| [Python](/hard/median-of-two-sorted-arrays.py) | Hard | Binary Search |
 | 87 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)| [Python](/medium/container-with-most-water.py) | Medium | two pointer |
+| 87 | [Ransom Note](https://leetcode.com/problems/ransom-note/description/)| [Python](/easy/ransom-note.py) | easy | hash table |
