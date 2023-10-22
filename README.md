@@ -94,3 +94,5 @@ LeetCode Solutions: A Record of My Problem Solving Journey.
 | 87 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)| [Python](/medium/container-with-most-water.py) | Medium | two pointer |
 | 88 | [Ransom Note](https://leetcode.com/problems/ransom-note/description/)| [Python](/easy/ransom-note.py) | easy | hash table |
 | 89 | [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/description/)| [Python](/easy/sum-of-unique-elements.py) | easy | hash table |
+| 90 | [Maximum number of balls in a box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/description/)| [Python](/easy/maximum-number-of-balls-in-a-box.py) | easy | hash table |
+
