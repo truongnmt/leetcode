@@ -30,7 +30,7 @@ LeetCode Solutions: A Record of My Problem Solving Journey.
 | 23 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/) | [Go](/easy/reverse-prefix-of-word.go) | Easy |  |
 | 24 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Go](/easy/maximum-depth-of-binary-tree.go) | Easy | Tree |
 | 25 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Go](/easy/binary-tree-inorder-traversal.go) | Easy | Tree, recursive, iterative |
-| 26 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Go](/medium/lru-cache.go) | Medium |  |
+| 26 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Go](/medium/lru-cache.go), [Python](/medium/lru-cache.go) | Medium |  |
 | 27 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Go](/easy/binary-tree-postorder-traversal.go) | Easy | Tree, recursive, iterative |
 | 28 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Go](/easy/binary-tree-preorder-traversal.go) | Easy | Tree, recursive, iterative |
 | 29 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Go](/medium/binary-tree-level-order-traversal.go) | Medium | Tree, bfs (in queue, in stack), dfs |
