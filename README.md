@@ -97,3 +97,4 @@ LeetCode Solutions: A Record of My Problem Solving Journey.
 | 90 | [Maximum number of balls in a box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/description/)| [Python](/easy/maximum-number-of-balls-in-a-box.py) | easy | hash table |
 | 91 | [Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/description/)| [Python](/medium/optimal-partition-of-string.py) | medium | hash table |
 | 91 | [Partition List](https://leetcode.com/problems/partition-list/description/)| [Python](/medium/partition-list.py) | medium | linked list |
+| 92 | [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/description/)| [Python](/easy/number-of-students-unable-to-eat-lunch.py) | easy | stack queue |
